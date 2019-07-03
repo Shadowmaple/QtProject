@@ -35,3 +35,6 @@ HEADERS += \
 FORMS += \
         mainwindow.ui \
     logindialog.ui
+
+RESOURCES += \
+    res.qrc
