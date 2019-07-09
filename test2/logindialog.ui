@@ -42,10 +42,10 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>30</x>
-     <y>30</y>
-     <width>81</width>
-     <height>41</height>
+     <x>40</x>
+     <y>40</y>
+     <width>45</width>
+     <height>23</height>
     </rect>
    </property>
    <property name="text">
@@ -55,10 +55,10 @@
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>30</x>
+     <x>50</x>
      <y>90</y>
-     <width>81</width>
-     <height>41</height>
+     <width>45</width>
+     <height>21</height>
     </rect>
    </property>
    <property name="text">
@@ -68,10 +68,10 @@
   <widget class="QLineEdit" name="usrLineEdit">
    <property name="geometry">
     <rect>
-     <x>130</x>
-     <y>20</y>
-     <width>211</width>
-     <height>51</height>
+     <x>127</x>
+     <y>24</y>
+     <width>151</width>
+     <height>41</height>
     </rect>
    </property>
    <property name="text">
@@ -84,10 +84,10 @@
   <widget class="QLineEdit" name="pwdLineEdit">
    <property name="geometry">
     <rect>
-     <x>130</x>
-     <y>90</y>
-     <width>211</width>
-     <height>51</height>
+     <x>131</x>
+     <y>78</y>
+     <width>151</width>
+     <height>41</height>
     </rect>
    </property>
    <property name="text">
