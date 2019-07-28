@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/sound/pair.wav</file>
+        <file>res/sound/release.wav</file>
+        <file>res/sound/select.wav</file>
+        <file>res/image/background/5.jpg</file>
+        <file>res/image/background/8.jpg</file>
+        <file>res/image/background/9.jpg</file>
+        <file>res/image/background/1.jpg</file>
+        <file>res/image/background/2.jpg</file>
+        <file>res/image/background/3.jpg</file>
+        <file>res/image/background/4.jpg</file>
+        <file>res/image/background/7.jpg</file>
+        <file>res/sound/background.mp3</file>
+        <file>res/image/youtube-0.png</file>
+        <file>res/image/youtube-1.png</file>
+        <file>res/image/youtube-2.png</file>
+        <file>res/image/youtube-3.png</file>
+        <file>res/image/youtube-4.png</file>
+        <file>res/image/youtube-5.png</file>
+        <file>res/image/youtube-6.png</file>
+        <file>res/image/youtube-7.png</file>
+        <file>res/image/youtube-8.png</file>
+        <file>res/image/icon/9.jpg</file>
+        <file>res/image/icon/49.jpg</file>
+        <file>res/image/icon/75.jpg</file>
+    </qresource>
+</RCC>
